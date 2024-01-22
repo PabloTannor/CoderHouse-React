@@ -1,0 +1,20 @@
+.btn-vaciar{
+    margin:10px;
+    background-color: blue;
+    color: #fafafa;
+    border-radius: 10px;
+    padding: 3px;
+    border: none;
+    cursor: pointer;
+}
+
+.btn-finalizar{
+        margin:10px;
+        text-decoration: none;
+        background-color: blue;
+        color: #fafafa;
+        border-radius: 10px;
+        padding: 2px;
+        border: none;
+        cursor: pointer;
+}

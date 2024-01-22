@@ -1,0 +1,26 @@
+header{
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #ca1616;
+    color:#fafafa;
+    border-bottom: 1px solid blue;
+}
+
+li{
+    display:inline-block;
+    margin:15px;
+    cursor: pointer;
+    list-style: none;
+}
+
+li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fafafa;
+}
+
+.imgLogo{
+    width: 150px;
+    margin-top: 20px;
+}

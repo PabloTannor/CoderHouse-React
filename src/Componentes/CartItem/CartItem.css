@@ -1,0 +1,22 @@
+.contenedor{
+    display:flex;
+    align-items: center;
+    gap:50px;
+    margin: 50px;
+}
+
+
+.eliminar{
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: blue;
+    color: #fafafa;
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.eliminar:hover{
+    opacity:0.9;
+}

@@ -1,0 +1,23 @@
+.contenedorItem{
+    text-align: center;
+    border: 1px solid black;
+    margin: 4rem;
+    padding: 2rem;
+}
+
+.contendeor img {
+    width: 35vw;
+}
+
+.terminar{
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: blue;
+    color: #fafafa;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.terminar:hover{
+    opacity: 0.9;
+}

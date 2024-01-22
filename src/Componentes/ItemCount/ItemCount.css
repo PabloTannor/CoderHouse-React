@@ -1,0 +1,17 @@
+.botonera{
+    display:flex;
+    justify-content: center;
+    gap:10px
+}
+
+.btn-botonera, .btn-contador{
+    border-radius: 10px;
+    padding: 10px;
+    border:none;
+    background-color: blue;
+    color:#fafafa;
+}
+
+.btn-botonera:hover{
+    opacity: 0.8;
+}
